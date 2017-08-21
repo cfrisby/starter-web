@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Cuyler Frisby	cuylerfris@gmail.com	@cuylerfris
 
 # THANKS
 
