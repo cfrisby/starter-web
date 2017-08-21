@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This example is to show different parts of the Git repository and various commands using a web project.
+Adding a line for rebasing example.
 
 ## Introduction
 
